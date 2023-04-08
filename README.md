@@ -11,13 +11,13 @@ The website uses HTML and CSS to create a visually appealing and informative exp
  - Several unordered lists and tables to provide additional details about Go(game).
 ## Page show
 
-![image](https://user-images.githubusercontent.com/90535397/230704102-b558a6f0-3cdf-4ae8-9a43-50e0ca8d8bbe.png)
-&emsp
-![image](https://user-images.githubusercontent.com/90535397/230704122-86835034-2ee0-41c7-9c9f-7fcf8b6abc64.png)
-&emsp
-![image](https://user-images.githubusercontent.com/90535397/230704130-66ce8d90-c7ed-4ba3-8ff0-a433efeffbe5.png)
-&emsp
-![image](https://user-images.githubusercontent.com/90535397/230704138-f5bb712f-8742-4b0a-9bc4-b3472f383f62.png)
-&emsp
+![image](https://user-images.githubusercontent.com/90535397/230704102-b558a6f0-3cdf-4ae8-9a43-50e0ca8d8bbe.png)  
+
+![image](https://user-images.githubusercontent.com/90535397/230704122-86835034-2ee0-41c7-9c9f-7fcf8b6abc64.png)  
+
+![image](https://user-images.githubusercontent.com/90535397/230704130-66ce8d90-c7ed-4ba3-8ff0-a433efeffbe5.png)  
+
+![image](https://user-images.githubusercontent.com/90535397/230704138-f5bb712f-8742-4b0a-9bc4-b3472f383f62.png)  
+
 ![image](https://user-images.githubusercontent.com/90535397/230704140-cfb7acb7-4e2f-40bc-8493-e49478f3cdeb.png)
-&emsp
+
