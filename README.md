@@ -9,3 +9,6 @@ The website uses HTML and CSS to create a visually appealing and informative exp
  - Use of flexbox to create a balanced layout for the content.
  - A pie chart to illustrate the distribution of bonuses in the seven major chess games in Japan page.
  - Several unordered lists and tables to provide additional details about Go(game).
+## Page show
+
+![image](https://user-images.githubusercontent.com/90535397/230704102-b558a6f0-3cdf-4ae8-9a43-50e0ca8d8bbe.png)
